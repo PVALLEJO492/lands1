@@ -1,0 +1,12 @@
+C:\PAUL\DEV\lands1\lands1\lands1\lands1\bin\Debug\netstandard2.0\lands1.deps.json
+C:\PAUL\DEV\lands1\lands1\lands1\lands1\bin\Debug\netstandard2.0\lands1.dll
+C:\PAUL\DEV\lands1\lands1\lands1\lands1\bin\Debug\netstandard2.0\lands1.pdb
+C:\PAUL\DEV\lands1\lands1\lands1\lands1\obj\Debug\netstandard2.0\lands1.csprojAssemblyReference.cache
+C:\PAUL\DEV\lands1\lands1\lands1\lands1\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\PAUL\DEV\lands1\lands1\lands1\lands1\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\PAUL\DEV\lands1\lands1\lands1\lands1\obj\Debug\netstandard2.0\lands1.csproj.CoreCompileInputs.cache
+C:\PAUL\DEV\lands1\lands1\lands1\lands1\obj\Debug\netstandard2.0\lands1.AssemblyInfoInputs.cache
+C:\PAUL\DEV\lands1\lands1\lands1\lands1\obj\Debug\netstandard2.0\lands1.AssemblyInfo.cs
+C:\PAUL\DEV\lands1\lands1\lands1\lands1\obj\Debug\netstandard2.0\XamlC.stamp
+C:\PAUL\DEV\lands1\lands1\lands1\lands1\obj\Debug\netstandard2.0\lands1.dll
+C:\PAUL\DEV\lands1\lands1\lands1\lands1\obj\Debug\netstandard2.0\lands1.pdb
