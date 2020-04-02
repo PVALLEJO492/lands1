@@ -2,4 +2,10 @@
 # Este archivo .gitignore ha sido creado automáticamente por Microsoft(R) Visual Studio.
 ################################################################################
 
-/lands1/.vs/lands1/v15/Server/sqlite3/db.lock
+/lands1/.vs/
+
+*.dll
+/lands1/lands1/lands1.Android/obj/Debug/81/resourcecache/designer-resources/F-26-12-17726e2bf9964edc
+/lands1/lands1/lands1.Android/obj/Debug/81/resourcecache/designer-resources/F-26-12-2517915f6ec9eb6c
+/lands1/lands1/lands1.Android/obj/Debug/81/resourcecache/designer-resources
+*.cs
